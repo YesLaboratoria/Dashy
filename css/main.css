@@ -1,0 +1,40 @@
+.fright{
+	float:right;
+}
+hr{
+  border-color: #E6E6E6;
+  border-style: solid none;
+  border-width: 1px 0;
+}
+.fleft{
+	float:left;
+}
+.fondo{
+	background-color:white;
+	padding-top:20px; 
+}
+.white{
+	color:white;
+}
+.imagen{
+    width:30%;
+    margin-left:30%;
+}
+.inline{
+	display:inline;
+}
+.morado{
+	background-color:#B404AE; 
+}
+.gris{
+	background-color:#585858;
+}
+.blanco{
+	color:white;
+}
+button{
+	background-color:#585858;
+}
+.fotos{
+	
+}
